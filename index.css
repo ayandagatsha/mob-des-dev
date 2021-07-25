@@ -1,0 +1,17 @@
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+
+
+.my-phone-resolution{
+    border: 3px solid black;
+    width: 355px;
+    height: 100vh;
+
+  
+  
+}
